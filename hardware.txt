@@ -9,3 +9,14 @@ Joystic Module
 LM2596 DC-DC buck converter(3x)
 100k Potentiometer
 Speaker
+
+
+How It Works
+
+The audio signal is modulated and fed to the laser transmitter.
+PAT system aligns the laser towards the receiver using a red marker.
+The audio-carrying laser beam reaches the photodiode receiver, where it is demodulated back into audio.
+The ESP32-CAM continuously checks for obstacles:
+If obstacle detected → audio transmission stops
+If clear → audio transmission resumes
+This ensures a stable, line-of-sight audio communication link.
