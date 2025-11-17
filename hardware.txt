@@ -1,0 +1,11 @@
+Microphone-MAX4466
+Amplifier-PAM8043(2x)
+Microcontroller- ESP32/Arduino(2X) 
+Laser Diode
+Servo Motors
+Ultrasonic sensor
+Photodiode/Solar Panel
+Joystic Module
+LM2596 DC-DC buck converter(3x)
+100k Potentiometer
+Speaker
