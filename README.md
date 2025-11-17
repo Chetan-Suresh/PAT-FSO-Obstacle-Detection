@@ -1,7 +1,7 @@
 PAT Enabled FSO System with Obstacle Avoidance
 
 This project implements a Free Space Optical (FSO) communication system capable of transmitting audio signals using a laser.
-The system includes Pointing, Acquisition, and Tracking (PAT) to maintain laser alignment and uses obstacle detection to stop audio transmission when the line-of-sight is blocked.
+The system includes Pan and tilt (PAT) to maintain laser alignment and uses obstacle detection to stop audio transmission when the line-of-sight is blocked.
 The goal is to achieve wireless, high-quality audio transmission using light.
 
 
