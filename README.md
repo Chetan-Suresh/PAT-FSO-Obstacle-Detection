@@ -15,4 +15,4 @@ Real-time red-marker tracking for alignment
 Hardware-based audio modulation & demodulation
 
 
-Detailed hardware list and components are available in the hardware.txt
+Detailed hardware list and components are available in the [hardware.txt](https://github.com/Chetan-Suresh/PAT-FSO-Obstacle-Detection/blob/main/hardware.txt)
