@@ -1,2 +1,18 @@
-# PAT-FSO-Obstacle-Detection
-Implementation of a Free Space Optical (FSO) communication link featuring Pointing, Acquisition &amp; Tracking (PAT), real-time obstacle detection, and automatic laser control using embedded hardware.
+PAT Enabled FSO System with Obstacle Avoidance
+
+This project implements a Free Space Optical (FSO) communication system capable of transmitting audio signals using a laser.
+The system includes Pointing, Acquisition, and Tracking (PAT) to maintain laser alignment and uses obstacle detection to stop audio transmission when the line-of-sight is blocked.
+The goal is to achieve wireless, high-quality audio transmission using light.
+
+
+Key Features:
+
+Audio signal transmission over laser (FSO link)
+PAT mechanism for maintaining correct laser alignment
+Obstacle detection using ESP32-CAM
+Automatic audio ON/OFF control based on visibility
+Real-time red-marker tracking for alignment
+Hardware-based audio modulation & demodulation
+
+
+Detailed hardware list and components are available in the hardware.txt
